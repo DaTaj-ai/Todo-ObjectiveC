@@ -71,12 +71,6 @@ https://github.com/user-attachments/assets/1bfa1901-b400-44aa-94ff-893e9b773b79
    ```
 2. Open the project in **Xcode**
 3. Build and run on an iOS simulator or physical device
-
-## 🔧 Bonus Features (Optional)
-
-* Attach and view files in tasks
-* Add, edit, and display task reminders
-
 ---
 
-A great starter project for learning **Objective-C** and building useful productivity apps on iOS!
+
