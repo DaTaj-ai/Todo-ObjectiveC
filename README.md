@@ -2,6 +2,14 @@
 
 A iOS ToDo app for organizing and prioritizing daily tasks. Built using **Objective-C**, **UIKit**, and **Xcode**, with local storage via **NSUserDefaults**.
 
+
+
+https://github.com/user-attachments/assets/e1256682-8d99-43c6-bc1e-569d4387b1e8
+
+
+
+
+
 ## 📅 Features
 
 * **Add a Task**
