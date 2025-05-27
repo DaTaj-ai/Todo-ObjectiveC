@@ -4,7 +4,7 @@ A iOS ToDo app for organizing and prioritizing daily tasks. Built using **Object
 
 
 
-[Todo App Demo](https://github.com/user-attachments/assets/e1256682-8d99-43c6-bc1e-569d4387b1e8)
+https://github.com/user-attachments/assets/1bfa1901-b400-44aa-94ff-893e9b773b79
 
 
 
